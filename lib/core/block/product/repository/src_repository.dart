@@ -1,0 +1,1 @@
+export 'block_product_repository.dart';
